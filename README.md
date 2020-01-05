@@ -11,7 +11,7 @@ published: true
 
 # Work Flow
 
-0. [Confiuraton.](#configuration)
+0. [Confiuraton.](#configuation)
 
 1.  [Take photo.](#take-photo)
 
