@@ -11,7 +11,7 @@ published: true
 
 # Work Flow
 
-0. [Confiuraton.](#configuation)
+0. [Confiuraton.](#configuration)
 
 1.  [Take photo.](#take-photo)
 
@@ -34,7 +34,7 @@ published: true
 10.  [Import tflite file to android.](#import-tflite-file-to-android)
 
 
-# Configuration
+# Configuratio
 
 > 환경 설정 단계입니다. 해당 프로젝트는 GPU 서버에서 처리하였습니다.
 
