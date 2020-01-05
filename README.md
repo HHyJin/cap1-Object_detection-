@@ -1,5 +1,6 @@
 ---
 title: Object Detection Using Custom Model
+---
 published: true
 ---
 
@@ -11,7 +12,7 @@ published: true
 
 # Work Flow
 
-0. [Confiuraton.](#configuration)
+0. [Configuraton.](#configuration)
 
 1.  [Take photo.](#take-photo)
 
