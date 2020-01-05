@@ -1,7 +1,6 @@
 ---
 title: Object Detection Using Custom Model
----
-published: true
+|published: true
 ---
 
 # To Do
